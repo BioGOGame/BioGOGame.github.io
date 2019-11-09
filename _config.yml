@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Guillaume Lobet"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/img/profile.jpg"
   bio              : "Geek X Botanist. Assistant professor FZJuelich & UCLouvain"
   location         : "Belgium"
   email            :
