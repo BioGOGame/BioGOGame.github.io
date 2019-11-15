@@ -1,8 +1,9 @@
-
 ---
-permalink: /use
+permalink: /use/
 title: "Using BioGO"
 toc: true
+sidebar:
+  nav: "docs"
 ---
 
 # Test 

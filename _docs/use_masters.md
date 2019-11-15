@@ -1,7 +1,9 @@
 ---
-permalink: /install/
-title: "How to install"
+permalink: /docs/use_masters/
+title: "How to manage BioGO"
 toc: true
+sidebar:
+  nav: "docs"
 ---
 
 # Test 

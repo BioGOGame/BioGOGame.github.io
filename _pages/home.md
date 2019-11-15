@@ -11,15 +11,15 @@ excerpt: >
   BioGO is a platform to organise large-scale treasure hunt out in the wild. Intitally developped for biological stuffs. 
 feature_row:
   - image_path: /assets/img/biogo_1.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "large crowds"
+    title: "Large crowds"
+    excerpt: "BioGO was designed to be able to manage hundreds of players at once."
+    url: "/docs/use_manager/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/img/biogo_2.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
+    alt: "user firendly"
+    title: "User friendly"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
@@ -27,8 +27,8 @@ feature_row:
   - image_path: /assets/img/biogo_3.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    excerpt: "Free to use however you want under the APACHE License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/licence/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

@@ -1,7 +1,9 @@
 ---
-permalink: /install/
-title: "How to install"
+permalink: /docs/use_players/
+title: "How to play BioGO"
 toc: true
+sidebar:
+  nav: "docs"
 ---
 
 # Test 
