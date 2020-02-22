@@ -4,12 +4,10 @@ main:
     url: /
   - title: "How to use"
     url: /use/
-  - title: "Installation"
-    url: /install/
   - title: "About"
     url: /about/
   - title: "Download"
-    url: https://github.com/BioGOGame/biogo
+    url: https://github.com/BioGOGame/biogo-public
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
