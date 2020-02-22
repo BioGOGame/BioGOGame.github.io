@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-eye'></i> View 2019 example"
       url: "http://www.biogo.xyz/"
 excerpt: >
-  BioGO is a platform to organise large-scale treasure hunt out in the wild. Intitally developped for biological stuffs. 
+  SITE IN CONSTRUCTION! PLEASE COME BACK LATER
 feature_row:
   - image_path: /assets/img/biogo_1.png
     alt: "large crowds"
