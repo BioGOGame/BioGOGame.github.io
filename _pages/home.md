@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/img/biogo_banner.png
   actions:
     - label: "<i class='fas fa-eye'></i> View 2019 example"
-      url: "http://www.biogo.xyz/"
+      url: "https://plantmodelling.shinyapps.io/BioGO_Vis/"
 excerpt: >
   SITE IN CONSTRUCTION! PLEASE COME BACK LATER
 feature_row:
