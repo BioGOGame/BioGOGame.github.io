@@ -8,7 +8,8 @@ header:
     - label: "<i class='fas fa-eye'></i> View 2019 example"
       url: "https://plantmodelling.shinyapps.io/BioGO_Vis/"
 excerpt: >
-  SITE IN CONSTRUCTION! PLEASE COME BACK LATER
+  BioGO is an interface to manage large (and small) scale treasure hunt. It was intially designed to organise a biological treasure hunt, but can be adapted to any situations.
+
 feature_row:
   - image_path: /assets/img/biogo_1.png
     alt: "large crowds"
