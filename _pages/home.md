@@ -23,7 +23,7 @@ feature_row:
     alt: "user firendly"
     title: "User friendly"
     excerpt: "Built with R-Shiny, BioGO is an easy to install and use web interface."
-    url: "/docs/layouts/"
+    url: "/docs/use_players/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
