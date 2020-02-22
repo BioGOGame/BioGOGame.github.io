@@ -17,13 +17,15 @@ feature_row:
     url: "/docs/use_manager/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
   - image_path: /assets/img/biogo_2.png
     alt: "user firendly"
     title: "User friendly"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Built with R-Shiny, BioGO is an easy to install and use web interface."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
   - image_path: /assets/img/biogo_3.png
     alt: "100% free"
     title: "100% free"
