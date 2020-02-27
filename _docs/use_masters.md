@@ -6,10 +6,10 @@ sidebar:
   nav: "docs"
 ---
 
-# Test 
+The game master will have access to the administration interface when logging into the game interface. The admin interface allows them to direclty correct the different bounties submitted by the users.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![interface](/assets/img/correction_interface.png)
 
-
+The admin interface also allows the game masters to visualize the evolution of the game such as the number of connections to the interface or the number of submitted  bounties. It also allows them to change the games parameters, directly within the interface. 
 
 You can try the game as a **game master** by using the [test interface here](https://plantmodelling.shinyapps.io/biogo_test/). You need to use `chen` as a username and `test` for the password. 
