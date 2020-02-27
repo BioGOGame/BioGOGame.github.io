@@ -6,12 +6,9 @@ sidebar:
   nav: "docs"
 ---
 
-# General principle 
+# Principle of the game
 
-BioGO is a large scale biological treasure hunt framework. The principle is simple. The game masters compile a list of more than  “quests” to be found in a given area. For the origina game (that we played with our students) -, these quests were all linked to biological structures and organisms, both botanical and zoological. Here are a couple of examples:
-
-- Find an achene 
-- Find a wood-eating insect
+BioGO is a large scale biological treasure hunt framework. The principle is simple. The game masters compile a list of more than  “quests” to be found in a given area. For the origina game (that we played with our students), these quests were all linked to biological structures and organisms, both botanical and zoological. 
 
 These quests had different difficulty levels (1,2,3) with different rewards. We did not explain the different biological terms to the students in a plenary lecture. We wanted them to look them up and learn by themselves.
 
