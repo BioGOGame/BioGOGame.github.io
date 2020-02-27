@@ -7,7 +7,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Download"
-    url: https://github.com/BioGOGame/biogo-public
+    url: https://github.com/BioGOGame/biogo_public
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
