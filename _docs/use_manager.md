@@ -10,7 +10,7 @@ BioGO is a web application developped in R and uses the Shiny package. The app c
 
 
 ## Personalise the game data
-Before starting the game, the data need to be personalized. You need indeed to add your own users, groups, quests and zones.  To do so, you need to go to the setup google sheet here : [https://docs.google.com/spreadsheets/d/1-AH4w4k7kyIRvzisJZOQ1xnTVK7OgfjcWmYVXTaDrCc/edit?usp=sharing]() and copy it to your own account. The  you will be able to modify the different sheets. 
+Before starting the game, the data need to be personalized. You need indeed to add your own users, groups, quests and zones.  To do so, you need to go to the setup google sheet here : [https://docs.google.com/spreadsheets/d/1-AH4w4k7kyIRvzisJZOQ1xnTVK7OgfjcWmYVXTaDrCc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-AH4w4k7kyIRvzisJZOQ1xnTVK7OgfjcWmYVXTaDrCc/edit?usp=sharing) and copy it to your own account. The  you will be able to modify the different sheets. 
 
 ### 1. Groups
 
@@ -53,7 +53,7 @@ For each zone, you need to enter :
 - **id** : the unique ID of the quest.
 - **name** : the name of the zone
 
-For the zones, you also need to have a file containing the limits of each zone. You can create a json with the limits of your zones at [http://geojson.io/#map=2/20.0/0.0](). Your own json needs to replace the one called `www/zones.json`.
+For the zones, you also need to have a file containing the limits of each zone. You can create a json with the limits of your zones at [http://geojson.io/#map=2/20.0/0.0](http://geojson.io/#map=2/20.0/0.0). Your own json needs to replace the one called `www/zones.json`.
 
 
 ## Setup the game. 
@@ -67,7 +67,7 @@ For the zones, you also need to have a file containing the limits of each zone. 
 
 ## Install the game. 
 
-You can now copy the whole biogo folder to your installation of Shiny Server. Explanation on how to install your server can be found here : [https://www.r-bloggers.com/install-shiny-server-for-r-on-ubuntu-the-right-way/]() 
+You can now copy the whole biogo folder to your installation of Shiny Server. Explanation on how to install your server can be found here : [https://www.r-bloggers.com/install-shiny-server-for-r-on-ubuntu-the-right-way/](https://www.r-bloggers.com/install-shiny-server-for-r-on-ubuntu-the-right-way/) 
 
 
 
